@@ -1,0 +1,19 @@
+{
+  "name": "college-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacsky/college-data.git"
+  },
+  "author": "Zac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacsky/college-data/issues"
+  },
+  "homepage": "https://github.com/zacsky/college-data#readme"
+}
