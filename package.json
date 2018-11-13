@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zacsky/college-data/issues"
   },
-  "homepage": "https://github.com/zacsky/college-data#readme"
+  "homepage": "https://github.com/zacsky/college-data#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
